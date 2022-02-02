@@ -37,9 +37,9 @@ namespace QUESTAO4_P1
             Console.WriteLine("Digite o nome do estcabelecimento: ");
             String _estabelecimento = Console.ReadLine();
             setEstabelecimento(_estabelecimento);
-            Console.WriteLine("Digite o valor da fatura de saude: ");
-            double _valor = double.Parse(Console.ReadLine());
-            setVlfatSaude(_valor);
+            //Console.WriteLine("Digite o valor da fatura de saude: ");
+            //double _valor = double.Parse(Console.ReadLine());
+            setVlfatSaude(getValor());
             double fat;
             fat = getVlfatSaude()*1.12;
             Console.WriteLine("o valor do faturamento eh: " + fat + "reais e o nome do estabelecimento eh: " + getEstabelecimento());

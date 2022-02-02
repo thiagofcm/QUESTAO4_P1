@@ -5,7 +5,7 @@ namespace QUESTAO4_P1
     class Program
     {
         static void Main(string[] args) {
-            Pagtos[] lista = new Pagtos[7]; 
+            Pagtos[] lista = new Pagtos[6]; 
             for (int i = 0; i < 6; i++) {
                 lista[i] = new Pagtos();
                 lista[i].solicitaPagto();

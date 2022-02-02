@@ -46,11 +46,13 @@ namespace QUESTAO4_P1
         public void solicitaPagto() {
             Console.WriteLine("Digite seu cpf: ");
             long _cpf = long.Parse(Console.ReadLine());
+            setCpf(_cpf);
             Console.WriteLine("Digite o valor do pagamento: ");
             double _valor = double.Parse(Console.ReadLine());
+            setValor(_valor);
             Console.WriteLine("Digite o codigo: ");
             int _cod = int.Parse(Console.ReadLine());
-            new Pagtos(_cpf, _valor, _cod);
+            setCod(_cod);
         }
 
 
