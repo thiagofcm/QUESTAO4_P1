@@ -41,9 +41,10 @@ namespace QUESTAO4_P1
             //Console.WriteLine("Digite o valor da fatura de alimentacao: ");
            // double _valor = double.Parse(Console.ReadLine());
             setVlfatAliment(getValor());
+            Console.WriteLine(getValor());
             double fat;
             fat = getVlfatAliment() * 1.05;
-            Console.WriteLine("o valor do faturamento eh: " + fat + "reais e a descricao do produto eh: " + getDescricao());
+            Console.WriteLine("o valor do faturamento eh: " + fat + " reais e a descricao do produto eh: " + getDescricao());
         }
     }
 }
