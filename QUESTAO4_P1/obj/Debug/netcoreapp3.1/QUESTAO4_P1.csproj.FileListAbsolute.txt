@@ -1,0 +1,13 @@
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\bin\Debug\netcoreapp3.1\QUESTAO4_P1.exe
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\bin\Debug\netcoreapp3.1\QUESTAO4_P1.deps.json
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\bin\Debug\netcoreapp3.1\QUESTAO4_P1.runtimeconfig.json
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\bin\Debug\netcoreapp3.1\QUESTAO4_P1.runtimeconfig.dev.json
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\bin\Debug\netcoreapp3.1\QUESTAO4_P1.dll
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\bin\Debug\netcoreapp3.1\QUESTAO4_P1.pdb
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\obj\Debug\netcoreapp3.1\QUESTAO4_P1.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\obj\Debug\netcoreapp3.1\QUESTAO4_P1.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\obj\Debug\netcoreapp3.1\QUESTAO4_P1.AssemblyInfo.cs
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\obj\Debug\netcoreapp3.1\QUESTAO4_P1.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\obj\Debug\netcoreapp3.1\QUESTAO4_P1.dll
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\obj\Debug\netcoreapp3.1\QUESTAO4_P1.pdb
+C:\Users\thiag\source\repos\QUESTAO4_P1\QUESTAO4_P1\obj\Debug\netcoreapp3.1\QUESTAO4_P1.genruntimeconfig.cache
